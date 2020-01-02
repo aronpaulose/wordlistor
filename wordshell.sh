@@ -1,8 +1,8 @@
 #!/bin/bash
 sleep 2
-figlet Cyber kallan
+figlet CODE RED
 sleep 6
-echo $blue." PLEASE SUBSCRIBE MY YOUTUBE CHANNEL";
+echo $blue." A TO Z WORDLIST GENERATOR";
 sleep 4
 echo $Red." GENARATING WORDLIST FOR YOU";                                                                                            
 sleep 4
